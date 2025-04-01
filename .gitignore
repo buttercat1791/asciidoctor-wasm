@@ -1,4 +1,5 @@
 /Gemfile.lock
+/Gemfile-wasm.lock
 /.bundle/
 /*.gem
 /*.html
@@ -9,3 +10,6 @@
 /pkg/
 /rdoc/
 /vendor/
+/build/
+/rubies/
+/bin/*.wasm
